@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "company": "Migrol",
+    "latitude": 33,
+    "longitude": 33,
+    "data": {
+      "opening_time": {
+        "Monday": "12h - 19h",
+        "Tuesday": "8h30 - 19h",
+        "Wednesday": "8h30 - 19h",
+        "Thursday": "8h30 - 19h",
+        "Friday": "8h30 - 19h",
+        "Saturday": "8h30 - 12h",
+        "Sunday": "closed"
+      },
+      "fuels": [
+        {
+          "name": "Euro 95",
+          "price": 1.56,
+          "currency": "CHF",
+          "status": "available"
+        },
+        {
+          "name": "Euro 98",
+          "price": 1.42,
+          "currency": "CHF",
+          "status": "closed"
+        },
+        {
+          "name": "V Power",
+          "price": 2.03,
+          "currency": "CHF",
+          "status": "unavailable"
+        }
+      ],
+      "chargers": [
+        {
+          "number": 1,
+          "status": "available",
+          "price": 0.5,
+          "currency": "CHF"
+        },
+        {
+          "number": 2,
+          "status": "available",
+          "price": 0.5,
+          "currency": "CHF"
+        },
+        {
+          "number": 3,
+          "status": "unavailable",
+          "price": 0.5,
+          "currency": "CHF"
+        },
+        {
+          "number": 4,
+          "status": "unavailable",
+          "price": 0.5,
+          "currency": "CHF"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "company": "Esso",
+    "latitude": 33,
+    "longitude": 33,
+    "data": {
+      "opening_time": {
+        "Monday": "12h - 19h",
+        "Tuesday": "8h30 - 19h",
+        "Wednesday": "8h30 - 19h",
+        "Thursday": "8h30 - 19h",
+        "Friday": "8h30 - 19h",
+        "Saturday": "8h30 - 12h",
+        "Sunday": "8h30 - 12h"
+      },
+      "fuels": [
+        {
+          "name": "Euro 95",
+          "price": 1.46,
+          "currency": "CHF",
+          "status": "available"
+        },
+        {
+          "name": "Euro 98",
+          "price": 1.22,
+          "currency": "CHF",
+          "status": "unavailable"
+        },
+        {
+          "name": "V Power",
+          "price": 2.03,
+          "currency": "CHF",
+          "status": "unavailable"
+        }
+      ],
+      "chargers": []
+    }
+  },
+  {
+    "id": 3,
+    "company": "Migrol",
+    "latitude": 33,
+    "longitude": 33,
+    "data": {
+      "opening_time": {
+        "Monday": "8h30 - 19h",
+        "Tuesday": "8h30 - 19h",
+        "Wednesday": "8h30 - 19h",
+        "Thursday": "8h30 - 19h",
+        "Friday": "8h30 - 19h",
+        "Saturday": "8h30 - 12h",
+        "Sunday": "closed"
+      },
+      "fuels": [
+        {
+          "name": "Euro 95",
+          "price": 1.56,
+          "currency": "CHF",
+          "status": "closed"
+        },
+        {
+          "name": "Euro 98",
+          "price": 1.42,
+          "currency": "CHF",
+          "status": "closed"
+        },
+        {
+          "name": "V Power",
+          "price": 2.03,
+          "currency": "CHF",
+          "status": "closed"
+        }
+      ],
+      "chargers": [
+        {
+          "number": 1,
+          "status": "closed",
+          "price": 0.5,
+          "currency": "CHF"
+        },
+        {
+          "number": 2,
+          "status": "closed",
+          "price": 0.5,
+          "currency": "CHF"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "company": "Migrol",
+    "latitude": 33,
+    "longitude": 33,
+    "data": {
+      "opening_time": {
+        "Monday": "8h30 - 19h",
+        "Tuesday": "8h30 - 19h",
+        "Wednesday": "8h30 - 19h",
+        "Thursday": "8h30 - 19h",
+        "Friday": "8h30 - 19h",
+        "Saturday": "8h30 - 12h",
+        "Sunday": "closed"
+      },
+      "fuels": [
+        {
+          "name": "Euro 95",
+          "price": 1.56,
+          "currency": "CHF",
+          "status": "unavailable"
+        },
+        {
+          "name": "Euro 98",
+          "price": 1.42,
+          "currency": "CHF",
+          "status": "unavailable"
+        },
+        {
+          "name": "V Power",
+          "price": 2.03,
+          "currency": "CHF",
+          "status": "unavailable"
+        }
+      ],
+      "chargers": [
+        {
+          "number": 1,
+          "status": "unavailable",
+          "price": 0.5,
+          "currency": "CHF"
+        },
+        {
+          "number": 2,
+          "status": "unavailable",
+          "price": 0.5,
+          "currency": "CHF"
+        }
+      ]
+    }
+  }
+]

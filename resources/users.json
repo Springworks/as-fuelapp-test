@@ -1,0 +1,12 @@
+[
+  {
+    "username": "Toto",
+    "password": "toto42",
+    "car_type": "DIESEL"
+  },
+  {
+    "username": "Theau",
+    "password": "toto42",
+    "car_type": "ELECTRIC"
+  }
+]

@@ -1,6 +1,4 @@
-# as-iconflux-test
-This repository is used as a test for the company Iconflux.
-
+# as-fuelapp-test
 
 ## Objectives
 In this test autoSense will assess different aspect of a project development. 
